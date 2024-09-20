@@ -27,7 +27,7 @@ hello!
 
 ![an image of a cat](https://placekitten.com/200/300)
 
-![mona lisa](images\monalisa.jpg)
+![mona lisa](images/monalisa.jpg)
 
 this sentence is about the `draw()` function
 
