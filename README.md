@@ -3,18 +3,20 @@
 When conducting my research for the imaging technique I could later use in the Major Project I have focused on how shapes could be transformed in a "flowy" way when the user interacts with them. I have found a decent number of animated artworks mimicking fluid dynamics which results in a creation of some highly interesting shapes. Here's some of my favourite ones:
 
 ![example1](https://i.pinimg.com/originals/dc/58/51/dc58517d98d13e8a9df3e3fda5a7c62b.gif)
+
 *__example 1.__* *unknown author, source: Pinterest.com*
 
-![example2](https://i.pinimg.com/originals/85/3d/02/853d02fdacfe02c91650cd8e6e7cecb4.gif)
-*__example 2.__* *unknown author, source: Pinterest.com*
+![example2](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVzM3JuNjZnY3pzZ3p5cG5pdWgyaTF1M3R6Z2pjaHU0M3R0bGZoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btZrtcVdIhqS1vG/giphy.webp)
+
+*__example 2.__* *(c) 2017, Micah Buzan, 'adult swim', source: giphy.com*
 
 I recon that some of artworks provided for the Major Project could provide with a great base for such interaction/animation. I believe that adding this possibility to create some organic and pleasant shapes will result in a creation of a truly engaging artwork.
 
-## coding techniques
+## Coding Techniques
 
-Coding technique I do believe will be crucial to achieve such effects is the `noise()` function.
+Coding technique I recon would be crucial to achieve such effects is the `noise()` function.
 
-![coding technique in action](https://s3.filebin.net/filebin/128da2c835218d0ed2102e59b9eb3161e81a4947d6d80341fcd1a18a91d629eb/76796c167c12ce618b5f23c058bf0bb857c6403694ce6be5a68d0d365d06600d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=7pMj6hGeoKewqmMQILjm%2F20240924%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240924T134824Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&response-cache-control=max-age%3D60&response-content-disposition=filename%3D%22Screen_Recording_2024-09-24_233548.gif%22&response-content-type=image%2Fgif&X-Amz-Signature=b1ffbdc8e535bf6f3e50186e18e19eb033bf2f79a443ea4b46bda145e29829b3)
+![coding technique in action](images/fluid.gif)
 *__coding technique in action__, (c) 2023, [web art](https://www.youtube.com/@web_artt), Dynamic Loading Liquid Animation Tutorial | Fluid Elegance with HTML, CSS, p5.js*
 
 In the following __[tutorial](https://www.youtube.com/watch?v=4wyCr_hhxjs)__ by  *[web art](https://www.youtube.com/@web_artt)* the `noise()` function is used in order to achieve a dynamic liquid animation effect. By returning random values between 0 and 1 this function produces arbitrary, however 'smooth' changes to the code allowing the parameters of the objects and elements to be altered in a steady but unsysthematic manner. This can bring a highly organic and natural feel to the movement of the elements and cause a soothing and pleasant experiance for the artwork's audience.
