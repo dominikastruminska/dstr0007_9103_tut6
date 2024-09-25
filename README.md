@@ -17,6 +17,7 @@ I recon that some of artworks provided for the Major Project could provide with 
 Coding technique I recon would be crucial to achieve such effects is the `noise()` function.
 
 ![coding technique in action](images/fluid.gif)
+
 *__coding technique in action__, (c) 2023, [web art](https://www.youtube.com/@web_artt), Dynamic Loading Liquid Animation Tutorial | Fluid Elegance with HTML, CSS, p5.js*
 
 In the following __[tutorial](https://www.youtube.com/watch?v=4wyCr_hhxjs)__ by  *[web art](https://www.youtube.com/@web_artt)* the `noise()` function is used in order to achieve a dynamic liquid animation effect. By returning random values between 0 and 1 this function produces arbitrary, however 'smooth' changes to the code allowing the parameters of the objects and elements to be altered in a steady but unsysthematic manner. This can bring a highly organic and natural feel to the movement of the elements and cause a soothing and pleasant experiance for the artwork's audience.
